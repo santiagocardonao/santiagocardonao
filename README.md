@@ -12,4 +12,6 @@ Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I p
 
 ---
 
+[Behance](https://www.behance.net/santiagcardona14) · [LinkedIn](https://www.linkedin.com/in/scardonaortiz/)
+
 Based in Medellín, Colombia (UTC-5). Spanish (native), English, Portuguese.
