@@ -2,7 +2,7 @@
 
 I design, build and deploy digital products.
 
-Marketing strategist by training, builder by habit. For eight years I co-founded and ran operations at a thirty-person design studio in Medellín, where we delivered more than a hundred projects across brand systems, e-commerce and product design. Before that I taught UX and UI design for six years.
+Marketing strategist by training, builder by habit. I founded a creative studio in Medellín and ran its operations for eight years, growing it to thirty people and delivering more than a hundred projects across brand systems, e-commerce and product design. I also taught UX and UI design for six years.
 
 Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I publish the tools I build for myself.
 
@@ -12,6 +12,6 @@ Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I p
 
 ---
 
-[Behance](https://www.behance.net/santiagcardona14) · [LinkedIn](https://www.linkedin.com/in/scardonaortiz/)
+[Behance](https://www.behance.net/santiagcardona14) · [LinkedIn](https://www.linkedin.com/in/scardonaortiz/) · [olmo.agency](https://olmo.agency/)
 
 Based in Medellín, Colombia (UTC-5). Spanish (native), English, Portuguese.
