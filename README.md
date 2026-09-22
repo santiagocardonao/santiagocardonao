@@ -8,6 +8,8 @@ Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I p
 
 ### Skills
 
+**[design-system-adherence](https://github.com/santiagocardonao/design-system-adherence)** — Audits whether a finished artifact actually follows the design system it was meant to follow. A linter reads source code; it cannot see the exported deck or the screenshot, which is where brand inconsistency reaches people.
+
 **[espanol-natural](https://github.com/santiagocardonao/espanol-natural)** — Makes an AI write Spanish like a native speaker rather than like a translation from English. Detects calques, filler phrases and the punctuation habits that give machine text away.
 
 ---
