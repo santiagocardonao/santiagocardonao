@@ -1,8 +1,8 @@
 ## Santiago Cardona Ortiz
 
-I design, build and deploy digital products.
+I grow and build digital products for creators.
 
-Marketing strategist by training, builder by habit. I founded a creative studio in Medellín and ran its operations for eight years, growing it to thirty people and delivering more than a hundred projects across brand systems, e-commerce and product design. I also taught UX and UI design for six years.
+Marketing strategist by training, builder by habit. I led growth for a creator fitness subscription from its first launch (USD 800K) to USD 7M a year, and co-founded a 30-person studio in Medellín that grew only through referrals and partners. I also taught UX and UI design for six years.
 
 Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I publish the tools I build for myself.
 
