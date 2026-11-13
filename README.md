@@ -1,27 +1,31 @@
 ## Santiago Cardona Ortiz
 
-I grow and build digital products for creators.
+Growth marketer and AI builder. I work where a product meets the people who pay for it, and I build the tools myself.
 
-Marketing strategist by training, builder by habit. I led growth for a creator fitness subscription from its first launch (USD 800K) to USD 7M a year, and co-founded a 30-person studio in Medellín that grew only through referrals and partners. I also taught UX and UI design for six years.
+I led growth and conversion for a creator fitness subscription from its first launch (USD 800K) to USD 7M in revenue (2024), raising purchase conversion from 3% to 4% and the price from USD 29 to 39 a month without churn going up. Before that I co-founded a 30-person studio in Medellín that grew only through referrals and partners.
 
-Today I work mostly in Claude Code, Supabase, Framer, Shopify and Figma, and I publish the tools I build for myself.
+Today I ship with Claude Code, the Claude API and Supabase, and I publish what I build.
 
-### Projects
+### Growth and AI products
 
-**[olmo-metricas](https://github.com/santiagocardonao/olmo-metricas)** — Olmo Métricas, a free unit-economics calculator for subscription businesses. Users, churn, price, payment fees, growth and costs go in; MRR, annual revenue, CLTV, CAC, LTV:CAC, payback and break-even come out, computed by one PL/pgSQL function that is the single source of truth. Shareable studies with a public link, a two-page A4 PDF, and RLS with no direct table access. [Open the calculator](https://metricas.olmo.agency)
+**[olmo-cotiza](<https://github.com/santiagocardonao/olmo-cotiza>)** · AI quote generator in production. Free text in; Claude returns structured output validated with Zod; one Postgres transaction stores the quote under RLS; templates render a branded A4 proposal with a public link and a PDF. [Live demo](<https://cotiza.olmo.agency/demo>)
 
-**[olmo-cotiza](https://github.com/santiagocardonao/olmo-cotiza)** — A quote generator on Supabase. Scope and prices go in as free text; Claude returns structured output validated with Zod; a single Postgres transaction stores the quote under RLS; fixed templates render a branded A4 proposal with a public link and a PDF with real text. Edge Functions, `pg_cron` for expiry, a rate-limited public demo. [Live demo](https://cotiza.olmo.agency/demo)
+**[Product-School-Prototype](<https://github.com/santiagocardonao/Product-School-Prototype>)** · Three lead-capture experiments behind feature flags, each with a control arm: an AI course advisor (real Claude call), a team pricing calculator and an email-first checkout. Every event and lead payload is visible in a data panel. [Open it](<https://ps-leads-prototype.vercel.app>)
 
-**[steady](https://github.com/santiagocardonao/steady)** — A gym log designed for one real user, my father. I wrote the specification (flows, data model, access rules, acceptance criteria) and built it with Lovable on Supabase: RLS keyed to `auth.uid()`, an installable PWA, and a demo that creates an anonymous session with its own sample data and deletes itself after 24 hours. [Open the app](https://steady-gym.lovable.app)
+**[olmo-metricas](<https://github.com/santiagocardonao/olmo-metricas>)** · Free unit-economics calculator for subscription businesses: MRR, ARR, CLTV, CAC, LTV:CAC, payback and break-even, computed by one PL/pgSQL function. [Open the calculator](<https://metricas.olmo.agency>)
 
-### Skills
+**[web-audit-agents](<https://github.com/santiagocardonao/web-audit-agents>)** · Claude skill that audits a website with a lead auditor and 4 agents (technical, content and organic, conversion/UX/measurement, security) and returns a prioritized report as a PDF or a React dashboard.
 
-**[design-system-adherence](https://github.com/santiagocardonao/design-system-adherence)** — Audits whether a finished artifact actually follows the design system it was meant to follow. A linter reads source code; it cannot see the exported deck or the screenshot, which is where brand inconsistency reaches people.
+**[steady](<https://github.com/santiagocardonao/steady>)** · A gym log built for one real user, my father. I wrote the spec and built it on Supabase: RLS, an installable PWA and a self-deleting demo. [Open the app](<https://steady-gym.lovable.app>)
 
-**[espanol-natural](https://github.com/santiagocardonao/espanol-natural)** — Makes an AI write Spanish like a native speaker rather than like a translation from English. Detects calques, filler phrases and the punctuation habits that give machine text away.
+### Claude skills
+
+**[design-system-adherence](<https://github.com/santiagocardonao/design-system-adherence>)** · Checks whether a finished deck, PDF or page follows its design system. Severity is computed, not judged.
+
+**[espanol-natural](<https://github.com/santiagocardonao/espanol-natural>)** · Makes an AI write Spanish like a native speaker, not like a translation from English.
 
 ---
 
-[Behance](https://www.behance.net/santiagcardona14) · [LinkedIn](https://www.linkedin.com/in/scardonaortiz/) · [olmo.agency](https://olmo.agency/)
+[LinkedIn](<https://www.linkedin.com/in/scardonaortiz/>) · [Portfolio](<https://santiagocardonaortiz.com>) · [Behance](<https://www.behance.net/santiagcardona14>)
 
-Based in Medellín, Colombia (UTC-5). Spanish (native), English, Portuguese.
+Medellín, Colombia (UTC-5) · English, Spanish, Portuguese · Open to remote, full-time growth roles.
