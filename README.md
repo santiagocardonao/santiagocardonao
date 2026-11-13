@@ -8,24 +8,24 @@ Today I ship with Claude Code, the Claude API and Supabase, and I publish what I
 
 ### Growth and AI products
 
-**[olmo-cotiza](<https://github.com/santiagocardonao/olmo-cotiza>)** · AI quote generator in production. Free text in; Claude returns structured output validated with Zod; one Postgres transaction stores the quote under RLS; templates render a branded A4 proposal with a public link and a PDF. [Live demo](<https://cotiza.olmo.agency/demo>)
+**[olmo-cotiza](https://github.com/santiagocardonao/olmo-cotiza)** · AI quote generator in production. Free text in; Claude returns structured output validated with Zod; one Postgres transaction stores the quote under RLS; templates render a branded A4 proposal with a public link and a PDF. [Live demo](https://cotiza.olmo.agency/demo)
 
-**[Product-School-Prototype](<https://github.com/santiagocardonao/Product-School-Prototype>)** · Three lead-capture experiments behind feature flags, each with a control arm: an AI course advisor (real Claude call), a team pricing calculator and an email-first checkout. Every event and lead payload is visible in a data panel. [Open it](<https://ps-leads-prototype.vercel.app>)
+**[Product-School-Prototype](https://github.com/santiagocardonao/Product-School-Prototype)** · Three lead-capture experiments behind feature flags, each with a control arm: an AI course advisor (real Claude call), a team pricing calculator and an email-first checkout. Every event and lead payload is visible in a data panel. [Open it](https://ps-leads-prototype.vercel.app)
 
-**[olmo-metricas](<https://github.com/santiagocardonao/olmo-metricas>)** · Free unit-economics calculator for subscription businesses: MRR, ARR, CLTV, CAC, LTV:CAC, payback and break-even, computed by one PL/pgSQL function. [Open the calculator](<https://metricas.olmo.agency>)
+**[olmo-metricas](https://github.com/santiagocardonao/olmo-metricas)** · Free unit-economics calculator for subscription businesses: MRR, ARR, CLTV, CAC, LTV:CAC, payback and break-even, computed by one PL/pgSQL function. [Open the calculator](https://metricas.olmo.agency)
 
-**[web-audit-agents](<https://github.com/santiagocardonao/web-audit-agents>)** · Claude skill that audits a website with a lead auditor and 4 agents (technical, content and organic, conversion/UX/measurement, security) and returns a prioritized report as a PDF or a React dashboard.
+**[auditor-web-ideal-team](https://github.com/santiagocardonao/auditor-web-ideal-team)** · Claude skill that audits a website with a lead auditor and 4 agents (technical, content and organic, conversion/UX/measurement, security) and returns a prioritized report as a PDF or a React dashboard.
 
-**[steady](<https://github.com/santiagocardonao/steady>)** · A gym log built for one real user, my father. I wrote the spec and built it on Supabase: RLS, an installable PWA and a self-deleting demo. [Open the app](<https://steady-gym.lovable.app>)
+**[steady](https://github.com/santiagocardonao/steady)** · A gym log built for one real user, my father. I wrote the spec and built it on Supabase: RLS, an installable PWA and a self-deleting demo. [Open the app](https://steady-gym.lovable.app)
 
 ### Claude skills
 
-**[design-system-adherence](<https://github.com/santiagocardonao/design-system-adherence>)** · Checks whether a finished deck, PDF or page follows its design system. Severity is computed, not judged.
+**[design-system-adherence](https://github.com/santiagocardonao/design-system-adherence)** · Checks whether a finished deck, PDF or page follows its design system. Severity is computed, not judged.
 
-**[espanol-natural](<https://github.com/santiagocardonao/espanol-natural>)** · Makes an AI write Spanish like a native speaker, not like a translation from English.
+**[espanol-natural](https://github.com/santiagocardonao/espanol-natural)** · Makes an AI write Spanish like a native speaker, not like a translation from English.
 
 ---
 
-[LinkedIn](<https://www.linkedin.com/in/scardonaortiz/>) · [Portfolio](<https://santiagocardonaortiz.com>) · [Behance](<https://www.behance.net/santiagcardona14>)
+[LinkedIn](https://www.linkedin.com/in/scardonaortiz/) · [Portfolio](https://santiagocardonaortiz.com) · [Behance](https://www.behance.net/santiagcardona14)
 
 Medellín, Colombia (UTC-5) · English, Spanish, Portuguese · Open to remote, full-time growth roles.
