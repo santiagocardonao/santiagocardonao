@@ -1,5 +1,15 @@
 ## Santiago Cardona Ortiz
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=2400&color=8B949E&vCenter=true&width=460&height=28&lines=Growth+marketer+%C2%B7+AI+builder;Medell%C3%ADn%2C+Colombia+%C2%B7+UTC-5+%C2%B7+remote" alt="Growth marketer · AI builder · Medellín, Colombia (UTC-5)" />
+
+<img src="https://img.shields.io/badge/Claude_Code-24292F?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Claude_API-24292F?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+<img src="https://img.shields.io/badge/Supabase-24292F?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Framer-24292F?style=flat-square&logo=framer&logoColor=white" alt="Framer" />
+
 Growth marketer and AI builder. I work where a product meets the people who pay for it, and I build the tools myself.
 
 I led growth and conversion for a creator fitness subscription from its first launch (USD 800K) to USD 7M in revenue (2024), raising purchase conversion from 3% to 4% and the price from USD 29 to 39 a month without churn going up. Before that I co-founded a 30-person studio in Medellín that grew only through referrals and partners.
